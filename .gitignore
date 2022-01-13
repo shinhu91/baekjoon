@@ -1,2 +1,4 @@
+.gitignore
 package.json
 example.txt
+.prettierignore
